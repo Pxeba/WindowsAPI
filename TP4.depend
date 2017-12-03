@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512326104 source:c:\users\pichau\desktop\tp4\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<tchar.h>
+	<shlobj.h>
+	<vector>
+
